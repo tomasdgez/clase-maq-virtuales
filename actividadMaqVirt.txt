@@ -1,0 +1,13 @@
+por que un  lenguaje de programacion solo puede utilizarse en algunos sistemas operativos y en otros no?
+- porque depende del compilador que se utiliza y este a su ves esta disenado para la arquitectura de la maquina dada
+
+que tipos de maquina virtual soporta virtualbox?
+-Windows (3. x, 95, 98, ME, NT 4.0, 2000, XP, Server 2003, Vista), Linux (2.2, 2.4 y 2.6), OS/2, NetBSD, FreeBSD, 
+ OpenBSD, Netware, Solaris y L4.
+
+que tipo de funcion cumple el hypervisor de la virtualizacion?
+- permite que un operador host preste soporte a varias maquinas virtuales invitadas mediante el uso compartido virtual 
+ de recursos
+
+si tengo mas de una maquina virtual y se rompe, esto afecta a las demas?
+-no, porque cada sistema operativo es independiente y justo por eso no afecta al sistema operativo host ni a otros instalados
